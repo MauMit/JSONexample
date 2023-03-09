@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af6fbdad-e615-4510-8ee4-e7fdc819d5a5" name="Changes" comment="Lagt till en ny SOut message">
+    <list default="true" id="af6fbdad-e615-4510-8ee4-e7fdc819d5a5" name="Changes" comment="Skapat ett JSON Object, skrivit och hämtat data via den.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSONexample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JSONexample.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1678351153529</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Skapat ett JSON Object, skrivit och hämtat data via den.">
+      <created>1678354171119</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1678354171119</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +72,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lagt till en ny SOut message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lagt till en ny SOut message" />
+    <MESSAGE value="Skapat ett JSON Object, skrivit och hämtat data via den." />
+    <option name="LAST_COMMIT_MESSAGE" value="Skapat ett JSON Object, skrivit och hämtat data via den." />
   </component>
 </project>
